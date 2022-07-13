@@ -1,3 +1,4 @@
+John Saucer (14443)
 #defining the math functions
 #not sure if I did this right!
 
